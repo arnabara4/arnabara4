@@ -1,7 +1,7 @@
 # 🚀 Arnab Jena
 
 Welcome to my portfolio repository.  
-I’m a **Software Developer and AI/ML Enthusiast** currently pursuing **B.Tech (Hons.) Aerospace Engineering** with a **Minor in AI & Computer Science at IIT Kharagpur**.  
+I’m a **Software Developer and AI/ML Enthusiast** currently pursuing **B.Tech (Hons.) Aerospace Engineering** with a **Minor in Computer Science at IIT Kharagpur**.  
 I specialize in **full-stack development, AI/ML integration, and scalable system design**.  
 
 ---
