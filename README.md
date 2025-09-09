@@ -6,16 +6,17 @@ I specialize in **full-stack development, AI/ML integration, and scalable system
 
 ---
 
-## 🔹 Experience  
+### Software Development Engineer — **Urvann** 
+- Automated **1,000+ daily order allocations** with a Delivery Allotment System.  
+- Enhanced **Next.js Tracking App** with Context API, REST APIs, sockets, and aggregation pipelines.  
 
-- **Software Development Engineer — Urvann** 
-  Automated rider allocation & order tracking system for 1,000+ daily orders. Improved **Next.js app** with real-time updates, aggregation pipelines, and REST APIs.  
+### Software Developer — **Laneway India** 
+- Built an **Employee Management Interface** with Node.js & Socket.IO.  
+- Implemented JWT authentication, role-based access, and real-time sync.  
 
-- **Software Developer — Laneway India**  
-  Built an employee management interface with **Node.js + Socket.IO**, featuring secure authentication and synchronized updates.  
-
-- **Frontend Developer — PeakTrail**  
-  Developed the company’s main website and a client-management template using **React** and deployed with **Netlify**.  
+### Frontend Developer — **PeakTrail**  
+- Developed the **official company website** using React.  
+- Built a **dynamic template site** for client onboarding and management. 
 
 ---
 
