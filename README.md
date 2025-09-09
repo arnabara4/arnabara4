@@ -50,7 +50,7 @@ I specialize in **full-stack development, AI/ML integration, and scalable system
 ## 📫 Contact  
 
 - GitHub: [arnabara4](https://github.com/arnabara4)  
-- LinkedIn: [](https://www.linkedin.com/in/arnab-jena-2214a3297/)](#)  
+- LinkedIn: [Arnab Jena](https://www.linkedin.com/in/arnab-jena-2214a3297/)](#)  
 - Email: arnabjena4@gmail.com
 
 ---
