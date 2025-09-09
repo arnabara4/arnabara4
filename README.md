@@ -1,4 +1,4 @@
-# 🚀 Arnab Jena — Portfolio  
+# 🚀 Arnab Jena
 
 Welcome to my portfolio repository.  
 I’m a **Software Developer and AI/ML Enthusiast** currently pursuing **B.Tech (Hons.) Aerospace Engineering** with a **Minor in AI & Computer Science at IIT Kharagpur**.  
