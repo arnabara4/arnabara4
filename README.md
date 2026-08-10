@@ -193,6 +193,21 @@ Real-time gesture→text from a webcam. **OpenCV + MediaPipe** landmarks feeding
 <tr><td><b>Testing</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest,postman" height="42"></td></tr>
 </table>
 
+**Frontend, in depth** — the part a skill-icon grid can't show:
+
+| | |
+|---|---|
+| **Design systems** | Maintained `et-ui`, SigIQ's shared component library — **Storybook** (react-vite) with the **a11y** addon and Vitest-driven visual tests. Built on **Radix UI** (27 primitives) in the **shadcn/ui** pattern — `class-variance-authority` + `tailwind-merge` + `clsx`. Also shipped against **MUI** (incl. X Date Pickers Pro), **Ant Design**, **Gluestack UI** and **React Aria**. |
+| **Editors & canvas** | **TLDraw** with `@tldraw/sync` for a **multiplayer whiteboard**; **TipTap** with custom subscript/superscript/text-style extensions; **KaTeX** + `remark-math`/`rehype-katex` for maths; `react-markdown` + `remark-gfm`. |
+| **Data viz** | **Recharts**, **D3**, **Chart.js**, `react-native-svg`, **Three.js**, **Leaflet**. |
+| **State & data** | **Zustand** (my default, 13 projects), **TanStack Query** with sync/async storage persisters, **Redux Toolkit** + persist + thunk. |
+| **Forms** | **React Hook Form** + **Zod** resolvers. |
+| **Motion** | **Framer Motion**, **Lottie** (web, native and dotLottie), **Reanimated**. |
+| **Routing** | **React Router**, **React Navigation** (native-stack, bottom-tabs, material-top-tabs), **expo-router**. |
+| **Mobile & PWA** | **Expo SDK 52/55**, **NativeWind**, **MMKV**, AsyncStorage, **Workbox** service workers, `vite-plugin-pwa`. |
+| **UI craft** | `sonner`, `vaul`, `cmdk`, `embla-carousel`, `react-day-picker`, `input-otp`, `react-resizable-panels`, `next-themes`, `react-beautiful-dnd`, `@tanstack/react-virtual`, **Lucide**. |
+| **Frontend testing** | **Vitest**, **Jest**, **Testing Library** (react / react-native / user-event), **Playwright**. |
+
 ---
 
 ## By the numbers
