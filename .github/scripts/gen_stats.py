@@ -366,9 +366,12 @@ def build_langs(d: dict) -> str:
     langs = sorted(d["langs"].items(), key=lambda kv: -kv[1])
     if not langs:
         langs = [("No data", 1)]
-    top = langs[:6]
-    rest = sum(v for _, v in langs[6:])
-    if rest:
+    grand = sum(v for _, v in langs) or 1
+    # Anything under half a percent is noise - a stray config file, a vendored
+    # snippet. Rolling it into "Other" beats printing a row that reads 0.0%.
+    top = [(k, v) for k, v in langs[:6] if v / grand >= 0.005]
+    rest = grand - sum(v for _, v in top)
+    if rest / grand >= 0.005:
         top.append(("Other", rest))
     total = sum(v for _, v in top) or 1
 

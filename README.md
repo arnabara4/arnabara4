@@ -30,7 +30,7 @@ Two things I care about, visible in everything below: **correctness before cleve
 
 ## Experience
 
-### <img src="https://img.shields.io/badge/-SigIQ.ai-0A0A0A?style=flat-square&logo=openai&logoColor=white" height="20"> &nbsp;Software Engineering Intern · *May – Jul 2026*
+### <img src="https://img.shields.io/badge/-SigIQ.ai-0EA5E9?style=flat-square&logo=openai&logoColor=white" height="20"> &nbsp;Software Engineering Intern · *May – Jul 2026*
 
 Building AI for education — two products, **PadhAI** (UPSC exam prep, subscriptions) and **EverTutor** (live AI tutoring).
 **155 commits · 35 PRs · 6 repositories · ~1,800 files touched.**
@@ -217,9 +217,7 @@ Real-time gesture→text from a webcam. **OpenCV + MediaPipe** landmarks feeding
   <img src="assets/langs.svg" alt="Language distribution" width="49%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabara4&bg_color=0a101c&color=e6edf7&line=38bdf8&point=f472b6&area_color=1e3a5f&title_color=a78bfa&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="98%">
-</p>
+<sub>The snake below eats my public contribution squares. It looks sparse for the same reason the calendar does — the private-org work isn't in it.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
