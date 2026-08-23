@@ -33,7 +33,7 @@
     <g clip-path="url(#barclip)">
       <rect x="26.0" y="100" width="280.4" height="16" fill="#3178c6" style="transform-origin:26.0px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.00s both"/>
       <rect x="306.4" y="100" width="151.1" height="16" fill="#f1e05a" style="transform-origin:306.4px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.06s both"/>
-      <rect x="457.5" y="100" width="102.4" height="16" fill="#3572A5" style="transform-origin:457.5px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.12s both"/>
+      <rect x="457.4" y="100" width="102.4" height="16" fill="#3572A5" style="transform-origin:457.4px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.12s both"/>
       <rect x="559.9" y="100" width="24.3" height="16" fill="#3d8137" style="transform-origin:559.9px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.18s both"/>
       <rect x="584.2" y="100" width="6.9" height="16" fill="#336790" style="transform-origin:584.2px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.24s both"/>
       <rect x="591.1" y="100" width="2.9" height="16" fill="#fb923c" style="transform-origin:591.1px 0;animation:grow .8s cubic-bezier(.2,.8,.2,1) 0.30s both"/>
