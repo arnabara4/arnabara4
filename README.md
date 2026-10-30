@@ -18,7 +18,7 @@
 
 ## whoami
 
-Pre-final-year at **IIT Kharagpur** — B.Tech (Hons.) Aerospace Engineering with **minors in Artificial Intelligence and Computer Science**.
+Final-year at **IIT Kharagpur** — B.Tech (Hons.) Aerospace Engineering with **minors in Artificial Intelligence and Computer Science**.
 
 I work the boring, load-bearing parts of a product: the migration history, the deploy pipeline, the money path, the thing that pages someone at 3 AM. Most of what I ship is **backend and platform** — Python/Django and TypeScript/Node services on AWS — but I take features end to end, from the Postgres schema up through the React the user actually touches.
 
